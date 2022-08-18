@@ -1,0 +1,7 @@
+C:\Arcadis\Training\Web Development\ASP.NET Core\ASP.NET Core 6 Web API Fundamentals PLS\CityInfo\CityInfo.API\obj\Release\net6.0\CityInfo.API.csproj.AssemblyReference.cache
+C:\Arcadis\Training\Web Development\ASP.NET Core\ASP.NET Core 6 Web API Fundamentals PLS\CityInfo\CityInfo.API\obj\Release\net6.0\CityInfo.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arcadis\Training\Web Development\ASP.NET Core\ASP.NET Core 6 Web API Fundamentals PLS\CityInfo\CityInfo.API\obj\Release\net6.0\CityInfo.API.AssemblyInfoInputs.cache
+C:\Arcadis\Training\Web Development\ASP.NET Core\ASP.NET Core 6 Web API Fundamentals PLS\CityInfo\CityInfo.API\obj\Release\net6.0\CityInfo.API.AssemblyInfo.cs
+C:\Arcadis\Training\Web Development\ASP.NET Core\ASP.NET Core 6 Web API Fundamentals PLS\CityInfo\CityInfo.API\obj\Release\net6.0\CityInfo.API.csproj.CoreCompileInputs.cache
+C:\Arcadis\Training\Web Development\ASP.NET Core\ASP.NET Core 6 Web API Fundamentals PLS\CityInfo\CityInfo.API\obj\Release\net6.0\CityInfo.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Arcadis\Training\Web Development\ASP.NET Core\ASP.NET Core 6 Web API Fundamentals PLS\CityInfo\CityInfo.API\obj\Release\net6.0\CityInfo.API.MvcApplicationPartsAssemblyInfo.cache
